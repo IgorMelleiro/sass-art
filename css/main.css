@@ -1,0 +1,10 @@
+.flex, body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  flex-direction: column;
+  height: 100%;
+}/*# sourceMappingURL=main.css.map */
